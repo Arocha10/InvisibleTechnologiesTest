@@ -1,0 +1,14 @@
+{
+  "name": "invistest",
+  "version": "1.0.0",
+  "description": "test for Invisible Technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Rocha",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
